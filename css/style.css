@@ -4,6 +4,7 @@ html {
 
 body {
     height: 100%;
+    background-color:black;
     
 }
 a {
@@ -17,3 +18,12 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header{
+    text-align:center;
+    font-size:40px;
+    color:#f4b164;
+}
+.leftPane{
+    color:yellow;
+}
+
