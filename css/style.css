@@ -7,6 +7,9 @@ body {
     background-color:black;
     
 }
+#copyright{
+    color:white;
+}
 a {
     text-decoration: none;
 }
@@ -27,3 +30,20 @@ a {
     color:yellow;
 }
 
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
+
+.social{
+    display:flex;
+    justify-content:center;
+}
+.gallery{
+    display:flex;
+    justify-content:space-around;
+}
+
+.thumbnail-image{
+    width:100%;
+}
