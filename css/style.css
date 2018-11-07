@@ -44,6 +44,10 @@ a {
     justify-content:space-around;
 }
 
+.thumbnail{
+    width:25%;
+    margin:5px;
+}
 .thumbnail-image{
     width:100%;
 }
