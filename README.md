@@ -36,7 +36,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Use flexbox to format your about page. 
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 #### CSS

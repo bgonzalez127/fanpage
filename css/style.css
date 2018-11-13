@@ -2,10 +2,12 @@ html {
     height: 100%;
 }
 
-body {
+.body {
     height: 100%;
-    background-color:black;
-    
+    background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0057/5758/rrrBone_Yard_Flat_RVSD_450__Lrgr_shop_thumb.png");
+}
+body:hover{
+     background-image:url("https://wallpaper4rest.com/animals/wallpaper/mini-dog-paw-prints-pattern-computer-wallpaper_1-800x600.jpg");
 }
 #copyright{
     color:white;
@@ -16,6 +18,8 @@ a {
 
 .main {
     height: 100%;
+    display: flex;
+    justify-content:center;
 }
 .social-image{
     width: 30px;
@@ -24,10 +28,10 @@ a {
 .header{
     text-align:center;
     font-size:40px;
-    color:#f4b164;
+    color:#ff893f;
 }
 .leftPane{
-    color:yellow;
+    /*color:yellow;*/
 }
 
 .navbar{
@@ -50,4 +54,11 @@ a {
 }
 .thumbnail-image{
     width:100%;
+}
+p{
+    color:black;
+}
+#intro2{
+    display:flex;
+    justify-content:center;
 }
